@@ -1,0 +1,13 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: EE561_Report_template.aux
+The style file: IEEEtran.bst
+Database file #1: mybib.bib
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Too many commas in name 1 of "Xing P. Guo, Jose Azinherira, Gabriele Bruzzone, Martin Buss, Massimo Caccia" for entry XingPGuo
+while executing---line 2419 of file IEEEtran.bst
+Too many commas in name 1 of "Xing P. Guo, Jose Azinherira, Gabriele Bruzzone, Martin Buss, Massimo Caccia" for entry XingPGuo
+while executing---line 2419 of file IEEEtran.bst
+
+Done.
+(There were 2 error messages)

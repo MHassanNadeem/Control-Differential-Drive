@@ -1,0 +1,31 @@
+\begin{bmatrix}
+\dot{x_{c}}\\ 
+\dot{y_{c}}\\ 
+\dot{\theta_{c}}
+\end{bmatrix}
+=
+\begin{bmatrix}
+cos & 2\\ 
+3 & 4
+\end{bmatrix}
+\cdot 
+\begin{bmatrix}
+v\\
+w
+\end{bmatrix}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

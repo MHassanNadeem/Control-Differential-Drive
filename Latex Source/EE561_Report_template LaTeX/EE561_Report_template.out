@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Methodology}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Mathematical Model}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Feedforward Control}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Block Diagram}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Feedback Control}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Linearization and State Space Model}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Controller Design}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.6.1}{Controllability}{subsection.2.6}% 9
+\BOOKMARK [3][-]{subsubsection.2.6.2}{Gain Matrix}{subsection.2.6}% 10
+\BOOKMARK [1][-]{section.3}{Simulations \046 Experiments}{}% 11
+\BOOKMARK [1][-]{section.4}{Conclusions \046 Further Work}{}% 12
+\BOOKMARK [1][-]{section*.1}{References}{}% 13
